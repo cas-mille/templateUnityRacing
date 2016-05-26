@@ -10,70 +10,70 @@ But it can also be used for **whatever you like**!
 
 ### Folders
 
-- `_RacingTemplate`
+ - `_RacingTemplate`
   - an example game with two tracks
   - all **our** prefabs / scripts / etc.
-- other folders (inside the `Asset`-Folder)
+ - other folders (inside the `Asset`-Folder)
   - all **external** assets
   - from Unity
-    - [Standard Asset Packages](https://docs.unity3d.com/Manual/AssetPackages.html) (Unity 5.3.2.)
-      - Cameras
-      - CrossPlattformInput
-      - Environment
-      - ParticleSystems
-      - Utility
-      - Vehicles
-  - from Daniel Robnik
-    - [Low Poly Styled Trees](https://www.assetstore.unity3d.com/en/#!/content/43103)
-    - [Low Poly Styled Rocks](https://www.assetstore.unity3d.com/en/#!/content/43486)
-  - [http://www.mayang.com/textures](http://www.mayang.com/textures)
+   - [Standard Asset Packages](https://docs.unity3d.com/Manual/AssetPackages.html) (Unity 5.3.2.)
+   - Cameras
+   - CrossPlattformInput
+   - Environment
+   - ParticleSystems
+   - Utility
+   - Vehicles
+ - from Daniel Robnik
+  - [Low Poly Styled Trees](https://www.assetstore.unity3d.com/en/#!/content/43103)
+  - [Low Poly Styled Rocks](https://www.assetstore.unity3d.com/en/#!/content/43486)
+ - [http://www.mayang.com/textures](http://www.mayang.com/textures)
 
 ### Prefabs / Scripts / etc.
 
 We have tried to include **as many as possible / a lot of different prefabs / scripts / etc. for easy and fast prototyping of ideas**.   
 Of course such a list can never be complete (look further below for further inspiration)!
 
-- menu structure
-- camera positioning
-- racetrack prototyping
-- basic object texturing
-- basic particle effect design
-- time tracking
-- win- / lose-states
-- trigger structure
+ - menu structure
+ - camera positioning
+ - racetrack prototyping
+ - basic object texturing
+ - basic particle effect design
+ - time tracking
+ - win- & lose-states
+ - trigger structure
 
 ## How to use it?
 
 ### In general
 
-- **fork** this template into a new repository / project (or just download it!)
-- **open** the project in Unity
-- **mess around** with whatever you like!
+ - **fork** this template into a new repository / project (or just download it!)
+ - **open** the project in Unity
+ - **mess around** with whatever you like!
 
 ### In a Game-Jam-like environment
 
-- take a in-dept look at the template
+ - take a in-dept look at the template
   - what are the possibilities? which ideas could be easily made?
-- brainstorm
-- develop
-- finish!
-- let other people play!
+ - brainstorm
+ - develop
+ - finish!
+ - let other people play!
 
 ### Ideas
 
-- Parking Game
-- Storytelling Game (through triggers)
-- Micro Machines
-- Takedown
-- Destruction Derby
-- etc.
+ - Parking Game
+ - Storytelling Game (through triggers)
+ - Micro Machines
+ - Takedown
+ - Destruction Derby
+ - etc.
 
 ### Tutorials
 
-- [Unity Official Tutorials](https://unity3d.com/learn/tutorials)
+ - [Unity Official Tutorials](https://unity3d.com/learn/tutorials)
   - [Main Menu Structure](https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/creating-a-scene-menu)
   - [Collectible Objects](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial/creating-collectable-objects)
-- just google Unity & Tutorials :-)
+ - just google Unity & Tutorials :-)
 
 ## Credits
 
@@ -88,9 +88,9 @@ All other media (images, software, etc.) remain the property of their copyright 
 
 ## Todos / Bugs / Ideas
 
-- Bugs
+ - Bugs
   - loading from the menu, the scenes get darker, why?
-- Todos / Ideas
+ - Todos / Ideas
   - moveable camera (drone?)
   - collectibles
   - collectibles with an effect (boost)
